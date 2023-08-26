@@ -1,6 +1,6 @@
 # Cardarus: Flutter Social Media App with Firebase 🚧
 
-🚧 ##This project is currently under construction.## 🚧
+🚧 *This project is currently under construction.* 🚧
 
 This is a Flutter-based social media app that leverages Firebase for backend services. It allows users to connect with friends, post updates, share photos, and interact with each other through comments and likes. The app is built using the Flutter framework, which enables cross-platform compatibility, and Firebase is used for authentication, real-time database, and storage functionalities.
 
