@@ -28,10 +28,10 @@ This is a Flutter-based social media app that leverages Firebase for backend ser
     ```
 4. Set up Firebase:
 
-- Create a new Firebase project at [https://console.firebase.google.com](https://console.firebase.google.com).
-- Add your Android and iOS app to the project and follow the instructions to download the configuration files (`google-services.json` and `GoogleService-Info.plist`).
-- Enable Firebase Authentication, Cloud Firestore, Firebase Storage, and Firebase Realtime Database in the Firebase project console.
-- Replace the configuration files in the app's respective folders.
+    - Create a new Firebase project at [https://console.firebase.google.com](https://console.firebase.google.com).
+    - Add your Android and iOS app to the project and follow the instructions to download the configuration files (`google-services.json` and `GoogleService-Info.plist`).
+    - Enable Firebase Authentication, Cloud Firestore, Firebase Storage, and Firebase Realtime Database in the Firebase project console.
+    - Replace the configuration files in the app's respective folders.
 
 5. Run the app:
     ```
