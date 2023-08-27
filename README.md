@@ -1,6 +1,6 @@
 # Cardarus: Flutter Social Media App with Firebase 🚧
 
-##Project Status
+## Project Status
 🚧 ***This project is currently under construction.*** 🚧
 
 - Login & Register Page: Completed
