@@ -25,7 +25,7 @@ This is a Flutter-based social media app that leverages Firebase for backend ser
 
 1. Clone this repository:
     ```
-    git clone https://github.com/sabinmhx/baadal.git
+    git clone https://github.com/sabinmhx/cardarus.git
     ```
 2. Navigate to the project directory:
     ```
