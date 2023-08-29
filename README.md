@@ -4,7 +4,7 @@
 🚧 ***This project is currently under construction.*** 🚧
 
 - Login & Register Page: Completed
-- Authentication: Not Completed
+- Authentication: Completed
 - Like Button: Not Completed
 - User Profile: Not Completed
 - Comments: Not Completed
