@@ -51,6 +51,13 @@ This is a Flutter-based social media app that leverages Firebase for backend ser
 
 In the `lib/config` directory, you can find configuration files that allow you to set up API keys, Firebase configuration, and other settings.
 
+## Screenshots
+
+<p float="left">
+    <img alt="Login Screen" src="https://raw.githubusercontent.com/sabinmhx/cardarus/master/images/cardarus_login_screen.png" width="200" height="400"/>
+    <img alt="Register Screen" src="https://raw.githubusercontent.com/sabinmhx/cardarus/master/images/cardarus_register_screen.png" width="200" height="400"/>
+</p>
+
 ## Dependencies
 
 - Flutter: [https://flutter.dev](https://flutter.dev)
