@@ -15,7 +15,7 @@ This is a Flutter-based social media app that leverages Firebase for backend ser
 
 ## Features
 
-- **User Authentication:** The app provides secure user authentication using Firebase Authentication. Users can sign up with email/password or log in with their existing accounts.
+- **User Authentication:** Cardarus provides secure user authentication using Firebase Authentication. Users can sign up with email/password or log in with their existing accounts.
 
 - **User Profiles:** Each user has a profile page that displays their profile.
 
